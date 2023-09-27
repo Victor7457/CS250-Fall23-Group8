@@ -3,3 +3,4 @@ Group 8 GitHub Repo
 
 Patrick Ho
 Hooman Manesh
+Victor Lopez
